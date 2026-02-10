@@ -1,0 +1,18 @@
+---
+title: "Test_for_workshop"
+author: "Isabella Muscettola"
+date: "2026-02-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r cars}
+print("Hello")
+```
+
+
