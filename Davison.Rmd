@@ -1,0 +1,13 @@
+---
+title: "Davison"
+output: html_document
+date: "2026-02-10"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+print("Hi Isabella!")
+```
